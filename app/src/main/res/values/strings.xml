@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Criminal Intent</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_hint">Enter a title for this crime</string>
+    <string name="title">TITLE</string>
+    <string name="details_of_the_crime">Details</string>
+    <string name="crime_solved">Crime Solved?</string>
+    <string name="date_picker_title">Date of Crime:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitile">If you see something, Report it</string>
+    <string name="delete_crime">Delete</string>
+    <string name="empty_layout_message">Please start adding crimes by clicking on add crime button below </string>
+    <string name="add_your_first_crime_button">Add Your First Crime</string>
+    <string name="take_a_picture">Take</string>
+    <string name="choose_suspect">Choose Suspect</string>
+    <string name="report_a_crime">Send Crime Report</string>
+    <string name="crime_report">%1$s! the crime was discovered on %2$s. %3$s and %4$s </string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">There is no suspect</string>
+    <string name="crime_report_suspect">The suspect is %s </string>
+    <string name="crime_report_subject">CriminalIntent crime report</string>
+    <string name="send_report">Send crime report via</string>
+</resources>
